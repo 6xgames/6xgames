@@ -4,3 +4,5 @@
 Our mission is simple: to provide a fast, seamless, and enjoyable gaming environment for enthusiasts of all ages.
 
 For updates, check https://6xgames.com
+
+Mirror repo: https://gitlab.com/unblocked-games-6x/6xgames
