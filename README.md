@@ -5,4 +5,6 @@ Our mission is simple: to provide a fast, seamless, and enjoyable gaming environ
 
 For updates, check https://6xgames.com
 
+Mirror URL: https://6x-games.com
+
 Mirror repo: https://gitlab.com/unblocked-games-6x/6xgames
